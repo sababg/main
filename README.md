@@ -129,7 +129,12 @@ Known Limitations & To-Do
 - Accessibility: while MUI helps, further A11Y audits could be done for expanded row content
 - Could include tests (e.g., using Cypress or React Testing Library) for the table and expand functionality
 
-Author
+📚 Tutorials & Articles
+Learn how this project was built step by step in these guides:
+- [How to Build a Reusable Accordion Table Component in React — Step-by-Step with TanStack Table & MUI – dev.to](https://dev.to/sababg/building-a-dynamic-accordion-table-in-react-with-tanstack-table-mui-3gm3) 
+- [“How to Build a Reusable Accordion Table Component in React — Step-by-Step with TanStack Table & MUI” – Medium (TowardsDev)](https://medium.com/towardsdev/building-a-dynamic-accordion-table-in-react-with-tanstack-table-mui-7ce28f2180f3) 
+
+👤Author
 Saba Beigi — Full-stack/front-end engineer (React, Next.js, TypeScript, MUI) based in Charlotte, NC, USA.
 Feel free to reach out if you’d like to collaborate: saba.beigi@example.com
  (update with your preferred contact).
